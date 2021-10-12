@@ -1,0 +1,15 @@
+settings:
+  messages:
+    reload: "&aКонфиг перезагружен!"
+    notperm: "&cУ вас нет прав!"
+    notarg: "&cНет аргументов!"
+    changed: "&aНастройки были измененны!"
+  firstconsolecommand:
+    enable: true
+    command: ""
+  firstplayercommand:
+    enable: true
+    command: ""
+  firstjoinmessages:
+    enable: true
+    message: ""

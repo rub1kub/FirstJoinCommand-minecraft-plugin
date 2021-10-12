@@ -1,0 +1,10 @@
+name: FirstJoinCommand
+version: 1.5
+main: firstjoincommand.firstjoincommand.FirstJoinCommand
+api-version: 1.17
+commands:
+  firstjoincommand:
+    description: about plugin
+    permission: fjc.settings
+    usage: /firstjoincommand
+    aliases: [fjc]
